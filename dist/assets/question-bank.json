@@ -1,0 +1,4256 @@
+{
+  "version": 4,
+  "language": "en",
+  "units": [
+    {
+      "id": "third-person",
+      "skill": "agr",
+      "title": "Third-person -s / -es",
+      "rule": "In the present simple, add -s or -es after he, she, it or a singular subject. Change consonant + y to -ies.",
+      "example": "She reads. He watches. My sister studies."
+    },
+    {
+      "id": "auxiliary-base",
+      "skill": "agr",
+      "title": "Base verbs after auxiliaries",
+      "rule": "After do, does, did, do not, does not or did not, use the base form of the main verb.",
+      "example": "Does she play? He does not play. Did they go?"
+    },
+    {
+      "id": "be-agreement",
+      "skill": "agr",
+      "title": "Forms of be",
+      "rule": "Match be to the subject and time: I am; he/she/it is; we/you/they are. In the past, use was with I/he/she/it and were with we/you/they.",
+      "example": "I am ready. They are ready. We were tired yesterday."
+    },
+    {
+      "id": "have-there",
+      "skill": "agr",
+      "title": "Have, has and there is / are",
+      "rule": "Use has with he/she/it or a singular subject; use have with I/you/we/they. Use there is for one thing and there are for more than one.",
+      "example": "She has a notebook. They have notebooks. There are two books."
+    },
+    {
+      "id": "past-simple",
+      "skill": "tense",
+      "title": "Completed past actions",
+      "rule": "Use the past simple for completed actions at a past time. Regular verbs end in -ed; some verbs have irregular past forms.",
+      "example": "We visited the museum yesterday. She went home."
+    },
+    {
+      "id": "present-continuous",
+      "skill": "tense",
+      "title": "Actions happening now",
+      "rule": "For an action happening now, use am/is/are + verb-ing. Match the auxiliary to the subject.",
+      "example": "I am reading. She is writing. They are playing."
+    },
+    {
+      "id": "past-continuous",
+      "skill": "tense",
+      "title": "Actions in progress in the past",
+      "rule": "Use was/were + verb-ing for an action in progress at a past moment. A shorter event can interrupt it.",
+      "example": "I was reading when the phone rang."
+    },
+    {
+      "id": "present-perfect",
+      "skill": "tense",
+      "title": "Experience and recent results",
+      "rule": "Use have/has + past participle for experiences or past actions linked to now. Words such as ever, never, just, already and yet often help.",
+      "example": "I have seen this film. She has just arrived."
+    },
+    {
+      "id": "make-do",
+      "skill": "vocab",
+      "title": "Make and do",
+      "rule": "Learn these combinations as whole phrases: do homework, do your best, make a decision, make a mistake, make your bed and make friends.",
+      "example": "Do your homework. Make a decision."
+    },
+    {
+      "id": "take-get",
+      "skill": "vocab",
+      "title": "Take and get",
+      "rule": "Learn action phrases together: take a photo, take a break, take notes, take part and get enough sleep.",
+      "example": "Take a photo. Get enough sleep."
+    },
+    {
+      "id": "communication",
+      "skill": "vocab",
+      "title": "Communication phrases",
+      "rule": "Use tell the truth, ask a question, give advice, send an email, pay attention and keep a promise.",
+      "example": "Ask a question. Give advice. Tell the truth."
+    },
+    {
+      "id": "daily-collocations",
+      "skill": "vocab",
+      "title": "Study and everyday phrases",
+      "rule": "Learn common combinations: solve a problem, follow the rules, save money, protect the environment and win a match.",
+      "example": "Solve a problem. Follow the rules."
+    },
+    {
+      "id": "time-prepositions",
+      "skill": "prep",
+      "title": "At, on and in for time",
+      "rule": "Use at with clock times, on with days and dates, and in with months and years. Learn at night and in the morning as phrases.",
+      "example": "At nine. On Monday. In September."
+    },
+    {
+      "id": "place-movement",
+      "skill": "prep",
+      "title": "Place and movement",
+      "rule": "Use in for something inside, on for a surface, to for a destination and across for movement from one side to the other. Learn arrive at a place and arrive in a city or country.",
+      "example": "In a bag. On a wall. Walk across a bridge."
+    },
+    {
+      "id": "fixed-prepositions",
+      "skill": "prep",
+      "title": "Prepositions in fixed phrases",
+      "rule": "Learn the preposition with its phrase: good at, interested in, afraid of, listen to, wait for, agree with and belong to.",
+      "example": "Good at maths. Interested in science."
+    },
+    {
+      "id": "for-since",
+      "skill": "prep",
+      "title": "For and since",
+      "rule": "Use for with a length of time and since with the point when something began.",
+      "example": "For three years. Since 2020."
+    },
+    {
+      "id": "statement-order",
+      "skill": "order",
+      "title": "Statements and noun phrases",
+      "rule": "In a simple statement, put the subject before the verb, then the object. Put an adjective before the noun it describes.",
+      "example": "She reads books. I have a blue bag."
+    },
+    {
+      "id": "question-order",
+      "skill": "order",
+      "title": "Question word order",
+      "rule": "In questions, put the auxiliary before the subject. With a question word, use question word + auxiliary + subject + main verb.",
+      "example": "Where does she live? Did you see it?"
+    },
+    {
+      "id": "adverb-order",
+      "skill": "order",
+      "title": "Frequency adverbs",
+      "rule": "Frequency adverbs usually come before a main verb and after be. Keep noun phrases together.",
+      "example": "She often reads. He is always polite."
+    },
+    {
+      "id": "verb-group-order",
+      "skill": "order",
+      "title": "Auxiliaries and verb groups",
+      "rule": "Keep auxiliaries and main verbs in order. Use subject + modal + base verb, have/has + past participle, or be + going to + base verb.",
+      "example": "She can swim. He has just arrived."
+    },
+    {
+      "id": "common-spelling",
+      "skill": "spell",
+      "title": "Common word spellings",
+      "rule": "Check the whole word, not only how it sounds. Notice the letter sequence in because, beautiful, science, subject and information.",
+      "example": "because · beautiful · science"
+    },
+    {
+      "id": "double-letters",
+      "skill": "spell",
+      "title": "Single and double letters",
+      "rule": "Notice which consonants are doubled: address has dd and ss; tomorrow has rr; necessary has one c and two s.",
+      "example": "address · tomorrow · necessary"
+    },
+    {
+      "id": "letter-patterns",
+      "skill": "spell",
+      "title": "Silent letters and letter order",
+      "rule": "Some letters are written but not heard. Check listen, answer and Wednesday. In friend, i comes before e.",
+      "example": "listen · answer · Wednesday · friend"
+    },
+    {
+      "id": "capital-letters",
+      "skill": "spell",
+      "title": "Capital letters",
+      "rule": "Use capitals for I, names, languages, countries, months and days. Begin a sentence with a capital letter.",
+      "example": "I study English in Kazakhstan on Monday."
+    }
+  ],
+  "questions": [
+    {
+      "id": "third-person-01",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "My sister ___ English every day.",
+      "options": [
+        "study",
+        "studies",
+        "studying"
+      ],
+      "answer": 1,
+      "explanation": "My sister is one person. Study changes to studies after a singular third-person subject.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "third-person-02",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "My brother ___ football every Saturday.",
+      "options": [
+        "playing",
+        "plays",
+        "play"
+      ],
+      "answer": 1,
+      "explanation": "My brother is one person. Add -s: plays.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "third-person-03",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "Our teacher ___ the answer clearly.",
+      "options": [
+        "explaining",
+        "explains",
+        "explain"
+      ],
+      "answer": 1,
+      "explanation": "Our teacher is singular, so the present-simple form is explains.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "third-person-04",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "The school bus ___ at eight.",
+      "options": [
+        "arriving",
+        "arrive",
+        "arrives"
+      ],
+      "answer": 2,
+      "explanation": "The bus is singular. Add -s: arrives.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "third-person-05",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "My cousin ___ TV after dinner.",
+      "options": [
+        "watching",
+        "watch",
+        "watches"
+      ],
+      "answer": 2,
+      "explanation": "Watch ends in -ch. Add -es after a singular subject: watches.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "third-person-06",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "The little bird ___ over the lake every morning.",
+      "options": [
+        "flies",
+        "flying",
+        "fly"
+      ],
+      "answer": 0,
+      "explanation": "Fly ends in consonant + y. Change y to -ies: flies.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "third-person-07",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "My father ___ in a hospital.",
+      "options": [
+        "works",
+        "work",
+        "working"
+      ],
+      "answer": 0,
+      "explanation": "My father is singular. The correct form is works.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "third-person-08",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "She ___ her teeth twice a day.",
+      "options": [
+        "brushes",
+        "brushing",
+        "brush"
+      ],
+      "answer": 0,
+      "explanation": "Brush ends in -sh, so add -es: brushes.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "third-person-09",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "A cat ___ mice.",
+      "options": [
+        "catch",
+        "catching",
+        "catches"
+      ],
+      "answer": 2,
+      "explanation": "Catch ends in -ch, so add -es after a singular subject.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "third-person-10",
+      "unit": "third-person",
+      "skill": "agr",
+      "prompt": "The baby often ___ when he is hungry.",
+      "options": [
+        "cry",
+        "crying",
+        "cries"
+      ],
+      "answer": 2,
+      "explanation": "Change consonant + y to -ies: cry becomes cries.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "auxiliary-base-01",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "Does your sister ___ English?",
+      "options": [
+        "speaks",
+        "speak",
+        "speaking"
+      ],
+      "answer": 1,
+      "explanation": "Does already marks the question. Use the base form speak.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "auxiliary-base-02",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "Does your brother ___ chess?",
+      "options": [
+        "play",
+        "playing",
+        "plays"
+      ],
+      "answer": 0,
+      "explanation": "Use the base form play after does.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "auxiliary-base-03",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "She does not ___ coffee.",
+      "options": [
+        "drinking",
+        "drink",
+        "drinks"
+      ],
+      "answer": 1,
+      "explanation": "After does not, the main verb stays in its base form: drink.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "auxiliary-base-04",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "My teacher does not ___ homework on Fridays.",
+      "options": [
+        "giving",
+        "gives",
+        "give"
+      ],
+      "answer": 2,
+      "explanation": "Use give, not gives, after does not.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "auxiliary-base-05",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "Did you ___ the match yesterday?",
+      "options": [
+        "see",
+        "saw",
+        "seeing"
+      ],
+      "answer": 0,
+      "explanation": "Did marks the past tense. The main verb must be see.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "auxiliary-base-06",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "Did they ___ to the museum?",
+      "options": [
+        "go",
+        "went",
+        "going"
+      ],
+      "answer": 0,
+      "explanation": "Use the base form go after did.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "auxiliary-base-07",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "Do your friends ___ reading?",
+      "options": [
+        "enjoys",
+        "enjoy",
+        "enjoying"
+      ],
+      "answer": 1,
+      "explanation": "Use the base form enjoy after do.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "auxiliary-base-08",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "He did not ___ the window.",
+      "options": [
+        "opened",
+        "open",
+        "opening"
+      ],
+      "answer": 1,
+      "explanation": "Use open after did not.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "auxiliary-base-09",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "Does Aida ___ a bicycle?",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer": 0,
+      "explanation": "Does is followed by have, not has.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "auxiliary-base-10",
+      "unit": "auxiliary-base",
+      "skill": "agr",
+      "prompt": "We do not ___ uniforms on Sundays.",
+      "options": [
+        "wear",
+        "wearing",
+        "wears"
+      ],
+      "answer": 0,
+      "explanation": "Use the base form wear after do not.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "be-agreement-01",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "I ___ ready for the lesson.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "answer": 1,
+      "explanation": "The present form of be after I is am.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "be-agreement-02",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "She ___ ready for the lesson.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "Use is with she in the present.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "be-agreement-03",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "The students ___ in the library now.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "answer": 0,
+      "explanation": "The students is plural, so use are.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "be-agreement-04",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "My brother and I ___ in Grade 7.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "My brother and I means we. Use are.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "be-agreement-05",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "We ___ at home last Sunday.",
+      "options": [
+        "were",
+        "are",
+        "was"
+      ],
+      "answer": 0,
+      "explanation": "Last Sunday is past time. The past form with we is were.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "be-agreement-06",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "He ___ tired after the trip yesterday.",
+      "options": [
+        "is",
+        "were",
+        "was"
+      ],
+      "answer": 2,
+      "explanation": "Use was with he for a completed past situation.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "be-agreement-07",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "These shoes ___ comfortable.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 2,
+      "explanation": "These shoes is plural. Use are.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "be-agreement-08",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "The boys ___ tired yesterday.",
+      "options": [
+        "were",
+        "was",
+        "are"
+      ],
+      "answer": 0,
+      "explanation": "Yesterday requires past tense. Use were with the boys.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "be-agreement-09",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "Everyone ___ here now.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "Everyone takes a singular verb: is.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "be-agreement-10",
+      "unit": "be-agreement",
+      "skill": "agr",
+      "prompt": "Neither answer ___ correct.",
+      "options": [
+        "am",
+        "are",
+        "is"
+      ],
+      "answer": 2,
+      "explanation": "Neither answer refers to each answer separately and takes is.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "have-there-01",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "My dog ___ a long tail.",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer": 1,
+      "explanation": "My dog is singular. Use has.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "have-there-02",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "My sister ___ a new schoolbag.",
+      "options": [
+        "have",
+        "having",
+        "has"
+      ],
+      "answer": 2,
+      "explanation": "My sister is singular. Use has.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "have-there-03",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "The students ___ new notebooks.",
+      "options": [
+        "has",
+        "having",
+        "have"
+      ],
+      "answer": 2,
+      "explanation": "The students is plural. Use have.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "have-there-04",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "My parents ___ a small car.",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer": 0,
+      "explanation": "My parents is plural. Use have.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "have-there-05",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "There ___ a book on the desk.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "explanation": "A book is one thing. Use there is.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "have-there-06",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "There ___ two windows in this room.",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": 2,
+      "explanation": "Two windows is plural. Use there are.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "have-there-07",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "I ___ a question.",
+      "options": [
+        "have",
+        "having",
+        "has"
+      ],
+      "answer": 0,
+      "explanation": "Use have with I.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "have-there-08",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "The classroom ___ four large windows.",
+      "options": [
+        "having",
+        "have",
+        "has"
+      ],
+      "answer": 2,
+      "explanation": "The classroom is one room. Use has.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "have-there-09",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "There ___ some milk in the fridge.",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": 0,
+      "explanation": "Milk is uncountable. Use there is.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "have-there-10",
+      "unit": "have-there",
+      "skill": "agr",
+      "prompt": "There ___ many people at the station.",
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "answer": 0,
+      "explanation": "People is plural. Use there are.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-simple-01",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "We ___ the museum yesterday.",
+      "options": [
+        "are visiting",
+        "visited",
+        "visit"
+      ],
+      "answer": 1,
+      "explanation": "Yesterday is a finished past time. Use visited.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "past-simple-02",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "They ___ a film last night.",
+      "options": [
+        "are watching",
+        "watch",
+        "watched"
+      ],
+      "answer": 2,
+      "explanation": "Last night is finished. Use the past form watched.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "past-simple-03",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "She ___ a letter last week.",
+      "options": [
+        "wrote",
+        "is writing",
+        "writes"
+      ],
+      "answer": 0,
+      "explanation": "Last week is past time. The past of write is wrote.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "past-simple-04",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "My family ___ to Almaty last summer.",
+      "options": [
+        "are going",
+        "goes",
+        "went"
+      ],
+      "answer": 2,
+      "explanation": "Last summer is past time. The past of go is went.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "past-simple-05",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "I ___ my keys two hours ago.",
+      "options": [
+        "am finding",
+        "find",
+        "found"
+      ],
+      "answer": 2,
+      "explanation": "Ago refers to a completed past time. Find becomes found.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "past-simple-06",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "He ___ his leg last winter.",
+      "options": [
+        "is breaking",
+        "broke",
+        "breaks"
+      ],
+      "answer": 1,
+      "explanation": "Last winter is past time. Break becomes broke.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "past-simple-07",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "Yesterday, we ___ a new topic.",
+      "options": [
+        "started",
+        "start",
+        "are starting"
+      ],
+      "answer": 0,
+      "explanation": "Use the past form started with yesterday.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-simple-08",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "She ___ a book on Monday last week.",
+      "options": [
+        "buys",
+        "is buying",
+        "bought"
+      ],
+      "answer": 2,
+      "explanation": "The completed past time needs bought, the past of buy.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-simple-09",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "We ___ lunch at school yesterday.",
+      "options": [
+        "are having",
+        "have",
+        "had"
+      ],
+      "answer": 2,
+      "explanation": "The past form of have is had.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-simple-10",
+      "unit": "past-simple",
+      "skill": "tense",
+      "prompt": "They ___ to Astana in 2022.",
+      "options": [
+        "move",
+        "moved",
+        "are moving"
+      ],
+      "answer": 1,
+      "explanation": "A finished year calls for the past simple: moved.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-continuous-01",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Look! The children ___ in the park.",
+      "options": [
+        "are playing",
+        "plays",
+        "played"
+      ],
+      "answer": 0,
+      "explanation": "Look points to an action happening now. Use are playing.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "present-continuous-02",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Be quiet! The baby ___ now.",
+      "options": [
+        "is sleeping",
+        "sleep",
+        "slept"
+      ],
+      "answer": 0,
+      "explanation": "Now needs is sleeping for this ongoing action.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "present-continuous-03",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "At the moment, we ___ a test.",
+      "options": [
+        "writes",
+        "are writing",
+        "wrote"
+      ],
+      "answer": 1,
+      "explanation": "At the moment describes an ongoing action: are writing.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "present-continuous-04",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Listen! Someone ___ the piano.",
+      "options": [
+        "is playing",
+        "played",
+        "plays"
+      ],
+      "answer": 0,
+      "explanation": "Listen points to what is happening now: is playing.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "present-continuous-05",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Hurry up! The bus ___ right now.",
+      "options": [
+        "left",
+        "leave",
+        "is leaving"
+      ],
+      "answer": 2,
+      "explanation": "Right now refers to an action in progress: is leaving.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "present-continuous-06",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Look at Aida! She ___ a picture.",
+      "options": [
+        "drew",
+        "is drawing",
+        "draw"
+      ],
+      "answer": 1,
+      "explanation": "The action is happening in front of us: is drawing.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "present-continuous-07",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "I ___ my homework right now.",
+      "options": [
+        "am doing",
+        "doing",
+        "did"
+      ],
+      "answer": 0,
+      "explanation": "Use am with I, followed by doing.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-continuous-08",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "The children ___ a snowman at the moment.",
+      "options": [
+        "making",
+        "made",
+        "are making"
+      ],
+      "answer": 2,
+      "explanation": "The children is plural. Use are making.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-continuous-09",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Please wait. I ___ to the teacher now.",
+      "options": [
+        "am talking",
+        "talking",
+        "talked"
+      ],
+      "answer": 0,
+      "explanation": "Now identifies the ongoing action: am talking.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-continuous-10",
+      "unit": "present-continuous",
+      "skill": "tense",
+      "prompt": "Where is Mum? She ___ dinner in the kitchen now.",
+      "options": [
+        "cooked",
+        "cooking",
+        "is cooking"
+      ],
+      "answer": 2,
+      "explanation": "For the action she is doing now, use is cooking.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-continuous-01",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "At five yesterday, they ___ football.",
+      "options": [
+        "were playing",
+        "play",
+        "are playing"
+      ],
+      "answer": 0,
+      "explanation": "At a specific past moment, use were playing.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "past-continuous-02",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "At eight last night, she ___ dinner.",
+      "options": [
+        "cooks",
+        "is cooking",
+        "was cooking"
+      ],
+      "answer": 2,
+      "explanation": "At a past moment, use was cooking with she.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "past-continuous-03",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "When the phone rang, I ___ a shower.",
+      "options": [
+        "am taking",
+        "take",
+        "was taking"
+      ],
+      "answer": 2,
+      "explanation": "The shower was in progress when the phone rang.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "past-continuous-04",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "He ___ his homework when the lights went out.",
+      "options": [
+        "was doing",
+        "does",
+        "is doing"
+      ],
+      "answer": 0,
+      "explanation": "The homework was in progress when the lights went out.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "past-continuous-05",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "While I was reading, my brother ___ TV.",
+      "options": [
+        "watches",
+        "is watching",
+        "was watching"
+      ],
+      "answer": 2,
+      "explanation": "Two ongoing past actions can use the past continuous.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "past-continuous-06",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "While Mum was cooking, we ___ the table.",
+      "options": [
+        "are setting",
+        "were setting",
+        "set every day"
+      ],
+      "answer": 1,
+      "explanation": "The actions were happening together in the past. Use were setting.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "past-continuous-07",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "At ten yesterday morning, I ___ in the library.",
+      "options": [
+        "was studying",
+        "study",
+        "am studying"
+      ],
+      "answer": 0,
+      "explanation": "Use was studying for an action in progress at that past time.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-continuous-08",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "They ___ home when it started to rain.",
+      "options": [
+        "walk every day",
+        "were walking",
+        "are walking"
+      ],
+      "answer": 1,
+      "explanation": "The walk was in progress when the rain started.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-continuous-09",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "She ___ music when the doorbell rang.",
+      "options": [
+        "listens to",
+        "was listening to",
+        "is listening to"
+      ],
+      "answer": 1,
+      "explanation": "The listening was in progress at the time of the doorbell.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "past-continuous-10",
+      "unit": "past-continuous",
+      "skill": "tense",
+      "prompt": "We ___ on the bus at this time yesterday.",
+      "options": [
+        "were sitting",
+        "are sitting",
+        "sit"
+      ],
+      "answer": 0,
+      "explanation": "At this time yesterday calls for the past continuous.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-perfect-01",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "She has never ___ to London.",
+      "options": [
+        "been",
+        "go",
+        "was"
+      ],
+      "answer": 0,
+      "explanation": "Has needs the past participle been.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "present-perfect-02",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "I have already ___ this film.",
+      "options": [
+        "see",
+        "seen",
+        "saw"
+      ],
+      "answer": 1,
+      "explanation": "Have needs the past participle seen.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "present-perfect-03",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "We have just ___ the project.",
+      "options": [
+        "finishing",
+        "finish",
+        "finished"
+      ],
+      "answer": 2,
+      "explanation": "Use have + past participle: finished.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "present-perfect-04",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "They have not ___ their homework yet.",
+      "options": [
+        "do",
+        "done",
+        "did"
+      ],
+      "answer": 1,
+      "explanation": "Have not needs the past participle done.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "present-perfect-05",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "He has just ___ home.",
+      "options": [
+        "come",
+        "came",
+        "coming"
+      ],
+      "answer": 0,
+      "explanation": "The past participle of come is also come.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "present-perfect-06",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "She has already ___ the email.",
+      "options": [
+        "send",
+        "sent",
+        "sending"
+      ],
+      "answer": 1,
+      "explanation": "Has needs the past participle sent.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "present-perfect-07",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "Have you ever ___ a horse?",
+      "options": [
+        "ride",
+        "ridden",
+        "rode"
+      ],
+      "answer": 1,
+      "explanation": "The past participle of ride is ridden.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-perfect-08",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "We have never ___ this game before.",
+      "options": [
+        "played",
+        "playing",
+        "play"
+      ],
+      "answer": 0,
+      "explanation": "Have never is followed by the past participle played.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-perfect-09",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "I have just ___ my keys.",
+      "options": [
+        "found",
+        "finding",
+        "find"
+      ],
+      "answer": 0,
+      "explanation": "The past participle of find is found.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "present-perfect-10",
+      "unit": "present-perfect",
+      "skill": "tense",
+      "prompt": "My brother has ___ his phone.",
+      "options": [
+        "lose",
+        "lost",
+        "losing"
+      ],
+      "answer": 1,
+      "explanation": "Has needs the past participle lost.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "make-do-01",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "I need to ___ my homework.",
+      "options": [
+        "do",
+        "make",
+        "take"
+      ],
+      "answer": 0,
+      "explanation": "The fixed combination is do homework.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "make-do-02",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "Please ___ your homework before dinner.",
+      "options": [
+        "make",
+        "give",
+        "do"
+      ],
+      "answer": 2,
+      "explanation": "Use do with homework.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "make-do-03",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "We must ___ a decision today.",
+      "options": [
+        "make",
+        "get",
+        "do"
+      ],
+      "answer": 0,
+      "explanation": "The standard combination here is make a decision.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "make-do-04",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "Try not to ___ a mistake.",
+      "options": [
+        "make",
+        "do",
+        "give"
+      ],
+      "answer": 0,
+      "explanation": "Use make with a mistake.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "make-do-05",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "I want to ___ friends at my new school.",
+      "options": [
+        "do",
+        "make",
+        "take"
+      ],
+      "answer": 1,
+      "explanation": "Make friends means form friendships.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "make-do-06",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "Please ___ your bed before school.",
+      "options": [
+        "make",
+        "do",
+        "take"
+      ],
+      "answer": 0,
+      "explanation": "Make your bed means arrange the bedding neatly.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "make-do-07",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "Always ___ your best.",
+      "options": [
+        "do",
+        "make",
+        "take"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is do your best.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "make-do-08",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "We need to ___ a plan.",
+      "options": [
+        "do",
+        "give",
+        "make"
+      ],
+      "answer": 2,
+      "explanation": "Use make a plan.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "make-do-09",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "It is your turn to ___ the washing-up.",
+      "options": [
+        "take",
+        "do",
+        "make"
+      ],
+      "answer": 1,
+      "explanation": "The fixed phrase is do the washing-up.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "make-do-10",
+      "unit": "make-do",
+      "skill": "vocab",
+      "prompt": "Please do not ___ so much noise.",
+      "options": [
+        "make",
+        "take",
+        "do"
+      ],
+      "answer": 0,
+      "explanation": "The fixed combination is make noise.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "take-get-01",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "Can you ___ a photo of us?",
+      "options": [
+        "do",
+        "give",
+        "take"
+      ],
+      "answer": 2,
+      "explanation": "The fixed phrase is take a photo.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "take-get-02",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "Please ___ a photo of the team.",
+      "options": [
+        "do",
+        "take",
+        "give"
+      ],
+      "answer": 1,
+      "explanation": "Use take with a photo.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "take-get-03",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "Let us ___ a break now.",
+      "options": [
+        "make",
+        "do",
+        "take"
+      ],
+      "answer": 2,
+      "explanation": "The fixed phrase is take a break.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "take-get-04",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "You should ___ notes during the lesson.",
+      "options": [
+        "say",
+        "do",
+        "take"
+      ],
+      "answer": 2,
+      "explanation": "Take notes means write down the main points.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "take-get-05",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "Our class will ___ part in the festival.",
+      "options": [
+        "take",
+        "do",
+        "make"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is take part in.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "take-get-06",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "You should ___ enough sleep before a test.",
+      "options": [
+        "do",
+        "make",
+        "get"
+      ],
+      "answer": 2,
+      "explanation": "Use get enough sleep.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "take-get-07",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "We ___ the bus to school every day.",
+      "options": [
+        "take",
+        "do",
+        "make"
+      ],
+      "answer": 0,
+      "explanation": "Take the bus means travel on it.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "take-get-08",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "It is cold. I might ___ a cold.",
+      "options": [
+        "make",
+        "do",
+        "get"
+      ],
+      "answer": 2,
+      "explanation": "Get a cold means become ill with a cold.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "take-get-09",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "After the long trip, we need to ___ some rest.",
+      "options": [
+        "make",
+        "do",
+        "get"
+      ],
+      "answer": 2,
+      "explanation": "The fixed phrase is get some rest.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "take-get-10",
+      "unit": "take-get",
+      "skill": "vocab",
+      "prompt": "Please ___ a seat while you wait.",
+      "options": [
+        "do",
+        "take",
+        "make"
+      ],
+      "answer": 1,
+      "explanation": "Take a seat is a polite way to ask someone to sit down.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "communication-01",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "Please ___ the truth.",
+      "options": [
+        "say",
+        "speak",
+        "tell"
+      ],
+      "answer": 2,
+      "explanation": "The fixed phrase is tell the truth.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "communication-02",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "I would like to ___ a question.",
+      "options": [
+        "ask",
+        "say",
+        "tell"
+      ],
+      "answer": 0,
+      "explanation": "Use ask with a question.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "communication-03",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "Could you ___ me some advice?",
+      "options": [
+        "give",
+        "tell",
+        "say"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is give someone advice.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "communication-04",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "I need to ___ an email to my teacher.",
+      "options": [
+        "say",
+        "tell",
+        "send"
+      ],
+      "answer": 2,
+      "explanation": "Use send with an email.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "communication-05",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "Please ___ attention to the instructions.",
+      "options": [
+        "pay",
+        "do",
+        "make"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is pay attention to.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "communication-06",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "It is important to ___ a promise.",
+      "options": [
+        "take",
+        "do",
+        "keep"
+      ],
+      "answer": 2,
+      "explanation": "Keep a promise means do what you promised.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "communication-07",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "Can you ___ me a hand with this box?",
+      "options": [
+        "give",
+        "make",
+        "do"
+      ],
+      "answer": 0,
+      "explanation": "Give someone a hand means help them.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "communication-08",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "Can you ___ me the way to the station?",
+      "options": [
+        "show",
+        "speak",
+        "say"
+      ],
+      "answer": 0,
+      "explanation": "Use show someone the way.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "communication-09",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "Please ___ me your name.",
+      "options": [
+        "tell",
+        "say",
+        "speak"
+      ],
+      "answer": 0,
+      "explanation": "Tell can be followed by a person directly: tell me.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "communication-10",
+      "unit": "communication",
+      "skill": "vocab",
+      "prompt": "We need to ___ this problem together.",
+      "options": [
+        "say",
+        "discuss",
+        "speak"
+      ],
+      "answer": 1,
+      "explanation": "Discuss takes the topic directly: discuss this problem.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "daily-collocations-01",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "Can you ___ this maths problem?",
+      "options": [
+        "solve",
+        "build",
+        "invent"
+      ],
+      "answer": 0,
+      "explanation": "Use solve with a problem.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "daily-collocations-02",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "Please ___ the rules of the game.",
+      "options": [
+        "listen",
+        "speak",
+        "follow"
+      ],
+      "answer": 2,
+      "explanation": "Follow the rules means act according to them.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "daily-collocations-03",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "Our team hopes to ___ the match.",
+      "options": [
+        "beat",
+        "win",
+        "earn"
+      ],
+      "answer": 1,
+      "explanation": "Win a match; beat an opponent.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "daily-collocations-04",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "My brother wants to ___ a swimming record.",
+      "options": [
+        "take",
+        "break",
+        "do"
+      ],
+      "answer": 1,
+      "explanation": "The fixed phrase is break a record.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "daily-collocations-05",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "Switch off unused lights to ___ energy.",
+      "options": [
+        "earn",
+        "lend",
+        "save"
+      ],
+      "answer": 2,
+      "explanation": "Save energy means avoid wasting it.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "daily-collocations-06",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "We must ___ the environment from pollution.",
+      "options": [
+        "solve",
+        "protect",
+        "recycle"
+      ],
+      "answer": 1,
+      "explanation": "Protect the environment means keep it safe from harm.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "daily-collocations-07",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "I put some money aside each week to ___ for a bicycle.",
+      "options": [
+        "save",
+        "borrow",
+        "lend"
+      ],
+      "answer": 0,
+      "explanation": "Putting money aside means saving it.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "daily-collocations-08",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "I need to ___ a dictionary to check this word.",
+      "options": [
+        "use",
+        "do",
+        "make"
+      ],
+      "answer": 0,
+      "explanation": "Use a dictionary means look up information in it.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "daily-collocations-09",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "Please ___ your seat belt.",
+      "options": [
+        "fasten",
+        "fold",
+        "make"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is fasten your seat belt.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "daily-collocations-10",
+      "unit": "daily-collocations",
+      "skill": "vocab",
+      "prompt": "I want to ___ my pronunciation.",
+      "options": [
+        "grow",
+        "improve",
+        "raise"
+      ],
+      "answer": 1,
+      "explanation": "Use improve with pronunciation.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "time-prepositions-01",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "The lesson begins ___ nine o’clock.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "Use at with a clock time.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "time-prepositions-02",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "The film begins ___ six o’clock.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "Use at with a clock time.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "time-prepositions-03",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "Our club meets ___ Monday.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": 1,
+      "explanation": "Use on with a day of the week.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "time-prepositions-04",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "The concert is ___ Friday evening.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "Use on with a particular day or its evening.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "time-prepositions-05",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "My birthday is ___ May.",
+      "options": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "Use in with a month.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "time-prepositions-06",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "We moved here ___ 2021.",
+      "options": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "Use in with a year.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "time-prepositions-07",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "I do homework ___ the evening.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "The fixed time phrase is in the evening.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "time-prepositions-08",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "The stars are bright ___ night.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 2,
+      "explanation": "The fixed time phrase is at night.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "time-prepositions-09",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "The event is ___ 15 April.",
+      "options": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer": 1,
+      "explanation": "Use on with a full date.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "time-prepositions-10",
+      "unit": "time-prepositions",
+      "skill": "prep",
+      "prompt": "School starts ___ September.",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "Use in with a month.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "place-movement-01",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "The books are ___ my schoolbag.",
+      "options": [
+        "between",
+        "during",
+        "in"
+      ],
+      "answer": 2,
+      "explanation": "A schoolbag contains the books. Use in.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "place-movement-02",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "There is a picture ___ the wall.",
+      "options": [
+        "on",
+        "during",
+        "between"
+      ],
+      "answer": 0,
+      "explanation": "A picture is on the surface of the wall.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "place-movement-03",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "We arrived ___ the airport early.",
+      "options": [
+        "to",
+        "at",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "Use arrive at with a specific place such as an airport.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "place-movement-04",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "We arrived ___ Kazakhstan yesterday.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "Use arrive in with a country or city.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "place-movement-05",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "We walked ___ the bridge to reach the other side.",
+      "options": [
+        "across",
+        "between",
+        "during"
+      ],
+      "answer": 0,
+      "explanation": "Across means from one side to the other.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "place-movement-06",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "He divided the cake ___ four equal pieces.",
+      "options": [
+        "at",
+        "onto",
+        "into"
+      ],
+      "answer": 2,
+      "explanation": "Use divide into for the resulting parts.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "place-movement-07",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "We travelled ___ train.",
+      "options": [
+        "at",
+        "by",
+        "from"
+      ],
+      "answer": 1,
+      "explanation": "By train describes the means of transport.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "place-movement-08",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "He goes to school ___ foot.",
+      "options": [
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is on foot.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "place-movement-09",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "She walked from the library ___ the station.",
+      "options": [
+        "at",
+        "to",
+        "during"
+      ],
+      "answer": 1,
+      "explanation": "Use from one place to another.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "place-movement-10",
+      "unit": "place-movement",
+      "skill": "prep",
+      "prompt": "The shop is ___ the bank and the café.",
+      "options": [
+        "during",
+        "until",
+        "between"
+      ],
+      "answer": 2,
+      "explanation": "Use between with the two places linked by and.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "fixed-prepositions-01",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "She is good ___ maths.",
+      "options": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "The fixed phrase is good at.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "fixed-prepositions-02",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "I am interested ___ science.",
+      "options": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "The fixed phrase is interested in.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "fixed-prepositions-03",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "The child is afraid ___ spiders.",
+      "options": [
+        "of",
+        "at",
+        "on"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is afraid of.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "fixed-prepositions-04",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "Please listen ___ the teacher.",
+      "options": [
+        "on",
+        "to",
+        "at"
+      ],
+      "answer": 1,
+      "explanation": "The verb listen is followed by to.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "fixed-prepositions-05",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "We are waiting ___ the bus.",
+      "options": [
+        "to",
+        "on",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "Use wait for when you name the person or thing being waited for.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "fixed-prepositions-06",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "I agree ___ you.",
+      "options": [
+        "to",
+        "at",
+        "with"
+      ],
+      "answer": 2,
+      "explanation": "Use agree with a person.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "fixed-prepositions-07",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "This book belongs ___ me.",
+      "options": [
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is belong to.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "fixed-prepositions-08",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "Thank you ___ your help.",
+      "options": [
+        "at",
+        "to",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "Use thank you for to name the reason.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "fixed-prepositions-09",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "He is worried ___ the test.",
+      "options": [
+        "at",
+        "about",
+        "on"
+      ],
+      "answer": 1,
+      "explanation": "The fixed phrase is worried about.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "fixed-prepositions-10",
+      "unit": "fixed-prepositions",
+      "skill": "prep",
+      "prompt": "She is responsible ___ feeding the cat.",
+      "options": [
+        "for",
+        "at",
+        "to"
+      ],
+      "answer": 0,
+      "explanation": "The fixed phrase is responsible for.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "for-since-01",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "I have lived here ___ three years.",
+      "options": [
+        "for",
+        "at",
+        "since"
+      ],
+      "answer": 0,
+      "explanation": "Three years is a duration, so use for.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "for-since-02",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "She has lived here ___ 2020.",
+      "options": [
+        "since",
+        "during",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "2020 is a starting point, so use since.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "for-since-03",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "We have waited ___ twenty minutes.",
+      "options": [
+        "since",
+        "in",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "Twenty minutes is a length of time. Use for.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "for-since-04",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "He has been ill ___ Monday.",
+      "options": [
+        "since",
+        "for",
+        "at"
+      ],
+      "answer": 0,
+      "explanation": "Monday identifies when the illness started. Use since.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "for-since-05",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "They have known each other ___ a long time.",
+      "options": [
+        "since",
+        "on",
+        "for"
+      ],
+      "answer": 2,
+      "explanation": "A long time is a duration. Use for.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "for-since-06",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "I have not seen her ___ last summer.",
+      "options": [
+        "for",
+        "since",
+        "during"
+      ],
+      "answer": 1,
+      "explanation": "Last summer is a starting point. Use since.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "for-since-07",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "We have studied English ___ two years.",
+      "options": [
+        "for",
+        "at",
+        "since"
+      ],
+      "answer": 0,
+      "explanation": "Use for with a duration: two years.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "for-since-08",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "She has worked here ___ January.",
+      "options": [
+        "since",
+        "on",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "January is the starting point. Use since.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "for-since-09",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "He has played the guitar ___ six months.",
+      "options": [
+        "for",
+        "in",
+        "since"
+      ],
+      "answer": 0,
+      "explanation": "Six months is a duration. Use for.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "for-since-10",
+      "unit": "for-since",
+      "skill": "prep",
+      "prompt": "I have been awake ___ six o’clock.",
+      "options": [
+        "since",
+        "on",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "Six o’clock is the starting time. Use since.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "statement-order-01",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "She books reads.",
+        "Reads books she.",
+        "She reads books."
+      ],
+      "answer": 2,
+      "explanation": "The subject she comes before the verb reads, followed by the object books.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "statement-order-02",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Play tennis they.",
+        "They tennis play.",
+        "They play tennis."
+      ],
+      "answer": 2,
+      "explanation": "Use subject + verb + object: they play tennis.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "statement-order-03",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "I a red bicycle have.",
+        "I have a bicycle red.",
+        "I have a red bicycle."
+      ],
+      "answer": 2,
+      "explanation": "Put red before bicycle and the object after have.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "statement-order-04",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "She wearing is a blue jacket.",
+        "She is wearing a blue jacket.",
+        "She is a blue wearing jacket."
+      ],
+      "answer": 1,
+      "explanation": "Keep is wearing together and put blue before jacket.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "statement-order-05",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "The students in are the library.",
+        "The students are in the library.",
+        "The are students in the library."
+      ],
+      "answer": 1,
+      "explanation": "The whole subject the students comes before are.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "statement-order-06",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "My has friend a small dog.",
+        "My friend has a small dog.",
+        "My friend a small dog has."
+      ],
+      "answer": 1,
+      "explanation": "Keep my friend together, followed by has and the object.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "statement-order-07",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "We reading enjoy stories.",
+        "We enjoy reading stories.",
+        "Enjoy stories we reading."
+      ],
+      "answer": 1,
+      "explanation": "Enjoy is followed by reading stories.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "statement-order-08",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Our explains teacher the rule.",
+        "Our teacher the explains rule.",
+        "Our teacher explains the rule."
+      ],
+      "answer": 2,
+      "explanation": "Keep the subject our teacher and object the rule together.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "statement-order-09",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "There is in a cat the garden.",
+        "There is a cat in the garden.",
+        "There a cat is in the garden."
+      ],
+      "answer": 1,
+      "explanation": "Use there is + noun phrase + place.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "statement-order-10",
+      "unit": "statement-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Please open your books.",
+        "Open books your please.",
+        "Please your open books."
+      ],
+      "answer": 0,
+      "explanation": "In this instruction, the verb open comes before your books.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "question-order-01",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Where he does live?",
+        "Where does live he?",
+        "Where does he live?"
+      ],
+      "answer": 2,
+      "explanation": "Use where + does + he + live.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "question-order-02",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "When does she study?",
+        "When does study she?",
+        "When she does study?"
+      ],
+      "answer": 0,
+      "explanation": "Use when + does + she + study.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "question-order-03",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "They the did watch film?",
+        "Did watch they the film?",
+        "Did they watch the film?"
+      ],
+      "answer": 2,
+      "explanation": "Put did before they, followed by watch.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "question-order-04",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "What you did eat for lunch?",
+        "What did you eat for lunch?",
+        "What did eat you for lunch?"
+      ],
+      "answer": 1,
+      "explanation": "Use what + did + you + eat.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "question-order-05",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "How many books do you have?",
+        "How many do books you have?",
+        "How books many do you have?"
+      ],
+      "answer": 0,
+      "explanation": "Keep how many books together before do you have.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "question-order-06",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "What does time school start?",
+        "What time does school start?",
+        "What time school does start?"
+      ],
+      "answer": 1,
+      "explanation": "Keep what time together, then does + school + start.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "question-order-07",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Why the children are laughing?",
+        "Why are the children laughing?",
+        "Why laughing are the children?"
+      ],
+      "answer": 1,
+      "explanation": "Use why + are + the children + laughing.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "question-order-08",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Your where schoolbag is?",
+        "Where your is schoolbag?",
+        "Where is your schoolbag?"
+      ],
+      "answer": 2,
+      "explanation": "Use where + is + your schoolbag.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "question-order-09",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "How water much do we need?",
+        "How much do water we need?",
+        "How much water do we need?"
+      ],
+      "answer": 2,
+      "explanation": "Keep how much water together, then do + we + need.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "question-order-10",
+      "unit": "question-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "When the lesson will start?",
+        "When will the lesson start?",
+        "When will start the lesson?"
+      ],
+      "answer": 1,
+      "explanation": "Use when + will + the lesson + start.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "adverb-order-01",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "I usually walk to school.",
+        "I walk to usually school.",
+        "I usually to school walk."
+      ],
+      "answer": 0,
+      "explanation": "Usually goes before the main verb walk.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "adverb-order-02",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "He never to bed goes late.",
+        "He never goes to bed late.",
+        "He goes to never bed late."
+      ],
+      "answer": 1,
+      "explanation": "Never goes before goes; keep to bed together.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "adverb-order-03",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "We often our visit grandparents.",
+        "We visit our often grandparents.",
+        "We often visit our grandparents."
+      ],
+      "answer": 2,
+      "explanation": "Often comes before visit; do not split our grandparents.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "adverb-order-04",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "She sometimes chess plays.",
+        "She plays sometimes chess she.",
+        "She sometimes plays chess."
+      ],
+      "answer": 2,
+      "explanation": "Sometimes comes before the main verb plays.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "adverb-order-05",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "She friendly is always.",
+        "She is always friendly.",
+        "She always friendly is."
+      ],
+      "answer": 1,
+      "explanation": "With be, put always after is and before friendly.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "adverb-order-06",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "They ready are usually.",
+        "They are usually ready.",
+        "They usually ready are."
+      ],
+      "answer": 1,
+      "explanation": "Put usually after are and before ready.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "adverb-order-07",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "We eat fast rarely food.",
+        "We rarely eat fast food.",
+        "We rarely fast eat food."
+      ],
+      "answer": 1,
+      "explanation": "Rarely goes before eat; keep fast food together.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "adverb-order-08",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "He is often late.",
+        "He late is often.",
+        "He often late is."
+      ],
+      "answer": 0,
+      "explanation": "Often goes after is.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "adverb-order-09",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "I always my answers check.",
+        "I check my always answers.",
+        "I always check my answers."
+      ],
+      "answer": 2,
+      "explanation": "Always goes before check; keep my answers together.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "adverb-order-10",
+      "unit": "adverb-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "My friends never rude are.",
+        "My friends are never rude.",
+        "My friends rude are never."
+      ],
+      "answer": 1,
+      "explanation": "With be, never follows are and comes before rude.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "verb-group-order-01",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "She can English speak.",
+        "She speak can English.",
+        "She can speak English."
+      ],
+      "answer": 2,
+      "explanation": "Use subject + can + base verb + object.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "verb-group-order-02",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "He ride can a bike.",
+        "He can a bike ride.",
+        "He can ride a bike."
+      ],
+      "answer": 2,
+      "explanation": "Can comes before the base verb ride.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "verb-group-order-03",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "He finished has already his work.",
+        "He has already finished his work.",
+        "He has already his work finished."
+      ],
+      "answer": 1,
+      "explanation": "Use has + already + finished, then the object.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "verb-group-order-04",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "They have just arrived at the station.",
+        "They have just at the station arrived to.",
+        "They arrived have just at the station."
+      ],
+      "answer": 0,
+      "explanation": "Use have + just + arrived, followed by the place.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "verb-group-order-05",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Have you ever visited London?",
+        "Have ever you visited London?",
+        "Have visited you ever London?"
+      ],
+      "answer": 0,
+      "explanation": "Use have + subject + ever + past participle.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "verb-group-order-06",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "Could tell you me the time?",
+        "Could you me the time tell?",
+        "Could you tell me the time?"
+      ],
+      "answer": 2,
+      "explanation": "Use could + you + tell, followed by the objects.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "verb-group-order-07",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "I am to going read this book.",
+        "I going am to read this book.",
+        "I am going to read this book."
+      ],
+      "answer": 2,
+      "explanation": "Keep am going to together before the base verb read.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "verb-group-order-08",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "We not are watching TV.",
+        "We are not watching TV.",
+        "We are watching not TV."
+      ],
+      "answer": 1,
+      "explanation": "Put not after are and before watching.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "verb-group-order-09",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "I not do understand this word.",
+        "I do understand not this word.",
+        "I do not understand this word."
+      ],
+      "answer": 2,
+      "explanation": "Use do not + base verb understand.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "verb-group-order-10",
+      "unit": "verb-group-order",
+      "skill": "order",
+      "prompt": "Choose the sentence with standard written word order.",
+      "options": [
+        "I like would a glass of water.",
+        "I would like a glass of water.",
+        "I would a glass of water like."
+      ],
+      "answer": 1,
+      "explanation": "Keep would like together, followed by the object.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "common-spelling-01",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "I stayed home ___ I was ill.",
+      "options": [
+        "because",
+        "becouse",
+        "becaus"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is because.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "common-spelling-02",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "The garden is very ___.",
+      "options": [
+        "beautifal",
+        "beutiful",
+        "beautiful"
+      ],
+      "answer": 2,
+      "explanation": "The correct spelling is beautiful: beau-ti-ful.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "common-spelling-03",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "We have a ___ lesson.",
+      "options": [
+        "sience",
+        "sciense",
+        "science"
+      ],
+      "answer": 2,
+      "explanation": "Science begins with sc and ends in -ence.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "common-spelling-04",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "English is my favourite ___.",
+      "options": [
+        "subjekt",
+        "subgect",
+        "subject"
+      ],
+      "answer": 2,
+      "explanation": "The correct spelling is subject.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "common-spelling-05",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "We need more ___ about the trip.",
+      "options": [
+        "infermation",
+        "information",
+        "informasion"
+      ],
+      "answer": 1,
+      "explanation": "The correct spelling is information.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "common-spelling-06",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "The ___ is sunny today.",
+      "options": [
+        "wether",
+        "weather",
+        "wheather"
+      ],
+      "answer": 1,
+      "explanation": "The correct spelling is weather.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "common-spelling-07",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "We visited a ___ yesterday.",
+      "options": [
+        "museum",
+        "muzeum",
+        "musem"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is museum.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "common-spelling-08",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "I celebrate my ___ every year.",
+      "options": [
+        "birthdy",
+        "berthday",
+        "birthday"
+      ],
+      "answer": 2,
+      "explanation": "The correct spelling is birthday.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "common-spelling-09",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "Please write your ___ here.",
+      "options": [
+        "naim",
+        "name",
+        "neme"
+      ],
+      "answer": 1,
+      "explanation": "The correct spelling is name.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "common-spelling-10",
+      "unit": "common-spelling",
+      "skill": "spell",
+      "prompt": "Her ___ is excellent.",
+      "options": [
+        "pronunciation",
+        "pronounciation",
+        "pronuncation"
+      ],
+      "answer": 0,
+      "explanation": "Pronunciation has nun, not noun, after pro-.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "double-letters-01",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "Please write your ___ here.",
+      "options": [
+        "addres",
+        "address",
+        "adress"
+      ],
+      "answer": 1,
+      "explanation": "Address has two d letters and two s letters.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "double-letters-02",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "Let us meet ___.",
+      "options": [
+        "tommorow",
+        "tomorrow",
+        "tomorow"
+      ],
+      "answer": 1,
+      "explanation": "Tomorrow has one m and two r letters.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "double-letters-03",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "This exercise is ___.",
+      "options": [
+        "difficult",
+        "difficalt",
+        "dificult"
+      ],
+      "answer": 0,
+      "explanation": "Difficult has two f letters.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "double-letters-04",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "They live in a small ___.",
+      "options": [
+        "village",
+        "vilage",
+        "villige"
+      ],
+      "answer": 0,
+      "explanation": "Village has two l letters.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "double-letters-05",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "It is ___ to wear a seat belt.",
+      "options": [
+        "neccessary",
+        "necessary",
+        "necesary"
+      ],
+      "answer": 1,
+      "explanation": "Necessary has one c and two s letters.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "double-letters-06",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "The answer is ___.",
+      "options": [
+        "correkt",
+        "corect",
+        "correct"
+      ],
+      "answer": 2,
+      "explanation": "Correct has two r letters and ends in -ect.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "double-letters-07",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "The story is very ___.",
+      "options": [
+        "funy",
+        "funnie",
+        "funny"
+      ],
+      "answer": 2,
+      "explanation": "Funny has two n letters and ends in y.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "double-letters-08",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "We live near a ___ lake.",
+      "options": [
+        "smaul",
+        "smal",
+        "small"
+      ],
+      "answer": 2,
+      "explanation": "Small ends in two l letters.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "double-letters-09",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "I feel ___ after the good news.",
+      "options": [
+        "happie",
+        "happy",
+        "hapy"
+      ],
+      "answer": 1,
+      "explanation": "Happy has two p letters and ends in y.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "double-letters-10",
+      "unit": "double-letters",
+      "skill": "spell",
+      "prompt": "She is a great ___.",
+      "options": [
+        "swimmar",
+        "swimmer",
+        "swimer"
+      ],
+      "answer": 1,
+      "explanation": "Swimmer has two m letters and ends in -er.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "letter-patterns-01",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "Please ___ to the teacher.",
+      "options": [
+        "lisen",
+        "listten",
+        "listen"
+      ],
+      "answer": 2,
+      "explanation": "Listen has a written t that is not pronounced.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "letter-patterns-02",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "Please check your ___.",
+      "options": [
+        "answer",
+        "anser",
+        "answar"
+      ],
+      "answer": 0,
+      "explanation": "Answer has a written w that is not pronounced.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "letter-patterns-03",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "She is my best ___.",
+      "options": [
+        "friend",
+        "freind",
+        "frend"
+      ],
+      "answer": 0,
+      "explanation": "In friend, i comes before e.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "letter-patterns-04",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "Our test is on ___.",
+      "options": [
+        "Wensday",
+        "Wendesday",
+        "Wednesday"
+      ],
+      "answer": 2,
+      "explanation": "The correct spelling is Wednesday.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "letter-patterns-05",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "We have ___ time to finish.",
+      "options": [
+        "enough",
+        "enouph",
+        "enogh"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is enough.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "letter-patterns-06",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "Please ___ the new words.",
+      "options": [
+        "remmember",
+        "remember",
+        "remeber"
+      ],
+      "answer": 1,
+      "explanation": "Remember has one m after re- and another in -member.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "letter-patterns-07",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "I know the ___ to the question.",
+      "options": [
+        "anwser",
+        "answer",
+        "ansver"
+      ],
+      "answer": 1,
+      "explanation": "Answer includes the sequence -nsw-.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "letter-patterns-08",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "She hurt her left ___.",
+      "options": [
+        "knee",
+        "kneei",
+        "nee"
+      ],
+      "answer": 0,
+      "explanation": "Knee starts with a silent k.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "letter-patterns-09",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "Please use a ___ to cut the bread.",
+      "options": [
+        "knif",
+        "nife",
+        "knife"
+      ],
+      "answer": 2,
+      "explanation": "Knife begins with a silent k and ends in e.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "letter-patterns-10",
+      "unit": "letter-patterns",
+      "skill": "spell",
+      "prompt": "I will ___ a letter.",
+      "options": [
+        "rite",
+        "write",
+        "writ"
+      ],
+      "answer": 1,
+      "explanation": "Write begins with a silent w and ends in e.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "capital-letters-01",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "We study ___ at school.",
+      "options": [
+        "English",
+        "EngLish",
+        "english"
+      ],
+      "answer": 0,
+      "explanation": "Language names begin with a capital letter: English.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 0
+    },
+    {
+      "id": "capital-letters-02",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "She speaks ___ with her family.",
+      "options": [
+        "kazakh",
+        "Kazakh",
+        "kaZakh"
+      ],
+      "answer": 1,
+      "explanation": "Language names begin with a capital letter: Kazakh.",
+      "level": 1,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 0
+    },
+    {
+      "id": "capital-letters-03",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "We celebrate Nauryz in ___.",
+      "options": [
+        "March",
+        "march",
+        "MarCh"
+      ],
+      "answer": 0,
+      "explanation": "Month names begin with a capital letter.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 1
+    },
+    {
+      "id": "capital-letters-04",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "The club meets on ___.",
+      "options": [
+        "friday",
+        "friDay",
+        "Friday"
+      ],
+      "answer": 2,
+      "explanation": "Day names begin with a capital letter.",
+      "level": 2,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 1
+    },
+    {
+      "id": "capital-letters-05",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "I was born in ___.",
+      "options": [
+        "kazakhstan",
+        "Kazakhstan",
+        "kazaKhstan"
+      ],
+      "answer": 1,
+      "explanation": "Country names begin with a capital letter.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "A",
+      "pair": 2
+    },
+    {
+      "id": "capital-letters-06",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "___ enjoy reading books.",
+      "options": [
+        "I",
+        "i",
+        "ı"
+      ],
+      "answer": 0,
+      "explanation": "The pronoun I is always a capital letter.",
+      "level": 3,
+      "use": "diagnostic",
+      "form": "B",
+      "pair": 2
+    },
+    {
+      "id": "capital-letters-07",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "Our teacher is called ___.",
+      "options": [
+        "Aida",
+        "aiDa",
+        "aida"
+      ],
+      "answer": 0,
+      "explanation": "A person’s name begins with a capital letter.",
+      "level": 1,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "capital-letters-08",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "The holiday starts in ___.",
+      "options": [
+        "June",
+        "juNe",
+        "june"
+      ],
+      "answer": 0,
+      "explanation": "Month names begin with a capital letter.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "capital-letters-09",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "We visited ___ last summer.",
+      "options": [
+        "london",
+        "lonDon",
+        "London"
+      ],
+      "answer": 2,
+      "explanation": "City names begin with a capital letter.",
+      "level": 2,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    },
+    {
+      "id": "capital-letters-10",
+      "unit": "capital-letters",
+      "skill": "spell",
+      "prompt": "Choose the correctly capitalised sentence.",
+      "options": [
+        "She likes english.",
+        "She likes English.",
+        "she likes English."
+      ],
+      "answer": 1,
+      "explanation": "Capitalise the first word of the sentence and the language name.",
+      "level": 3,
+      "use": "practice",
+      "form": null,
+      "pair": null
+    }
+  ]
+}

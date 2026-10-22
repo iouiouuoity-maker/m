@@ -1,0 +1,36 @@
+name: Publish ErrorMap
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - name: Check learning logic
+        run: node tests/check.cjs
+      - name: Check evidence interface
+        run: node tests/experience_test.cjs
+      - name: Check classroom API
+        run: python3 tests/classroom_test.py
+      - name: Check Vercel adapter
+        run: python3 tests/vercel_test.py
+      - uses: actions/configure-pages@v6.0.0
+      - uses: actions/upload-pages-artifact@v5.0.0
+        with:
+          path: dist
+          include-hidden-files: true
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5.0.1

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "python3 scripts/build_vercel.py",
+  "outputDirectory": "public",
+  "functions": {
+    "api/index.py": {"maxDuration": 60}
+  },
+  "rewrites": [
+    {"source": "/api/:path*", "destination": "/api/index.py?route=:path*"}
+  ],
+  "headers": [
+    {"source": "/(.*)", "headers": [
+      {"key": "X-Content-Type-Options", "value": "nosniff"},
+      {"key": "X-Frame-Options", "value": "DENY"},
+      {"key": "Referrer-Policy", "value": "same-origin"}
+    ]},
+    {"source": "/api/(.*)", "headers": [{"key": "Cache-Control", "value": "no-store"}]}
+  ],
+  "crons": [{"path": "/api/mail/cron", "schedule": "0 5 * * *"}]
+}
